@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "LM3915N-1")(type "KiCad")(uri "E:/KICAD LIBRARY/LM3915N-1")(options "")(descr ""))
+  (lib (name "STM8S103F3P6")(type "KiCad")(uri "E:/KICAD LIBRARY/LIB_STM8S103F3P6/STM8S103F3P6/KiCad")(options "")(descr ""))
+  (lib (name "PC817 SMD")(type "KiCad")(uri "E:/KICAD LIBRARY/PC817X2NIP0F")(options "")(descr ""))
+  (lib (name "DRV8825")(type "KiCad")(uri "E:/KICAD LIBRARY/LIB_DRV8825PWP/DRV8825PWP/KiCad")(options "")(descr ""))
+)

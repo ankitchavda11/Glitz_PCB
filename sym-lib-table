@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "LM3915N-1")(type "Legacy")(uri "E:/KICAD LIBRARY/LM3915N-1/LM3915N-1.lib")(options "")(descr ""))
+  (lib (name "STM8S103F3P6")(type "Legacy")(uri "E:/KICAD LIBRARY/LIB_STM8S103F3P6/STM8S103F3P6/KiCad/STM8S103F3P6.lib")(options "")(descr ""))
+  (lib (name "DRV8825")(type "Legacy")(uri "E:/KICAD LIBRARY/LIB_DRV8825PWP/DRV8825PWP/KiCad/DRV8825PWP.lib")(options "")(descr ""))
+)
